@@ -2,7 +2,7 @@
 
 <hr />
 
-### Single responsibility principle  (SRP)
+Single responsibility principle  (SRP)
 
 > There should never be more than one reason for a class to change.
 
