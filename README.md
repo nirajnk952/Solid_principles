@@ -1,5 +1,5 @@
 ## Solid JavaScript - solid principles in JavaScript
-
+- [All_solid_principles_example](https://github.com/nirajnk952/Solid_principles/blob/main/solid_principles_example.js)
 <hr />
 
 Single responsibility principle  (SRP)
