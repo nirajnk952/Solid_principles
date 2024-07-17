@@ -47,7 +47,7 @@ Interface segregation principle (ISP)
 
 Dependency inversion principle (DIP)
 
-> classes shouldnt depend on interfaces rather than concrete class
+> classes should depend on interfaces rather than concrete class.
 >  Depend upon abstractions, NOT concretions.
 
 
